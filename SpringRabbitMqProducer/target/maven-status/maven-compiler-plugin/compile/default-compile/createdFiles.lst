@@ -1,0 +1,6 @@
+com\bt\rabbitmq\SpringRabbitMqProducerApplication.class
+com\rsb\handle\productserviceInterceptore.class
+com\getordr\dao\get_order.class
+com\bt\rabbitmq\controller\WebController.class
+com\rsb\config\app\productservicesInterceptorAppConfig.class
+com\bt\rabbitmq\entity\Producer.class

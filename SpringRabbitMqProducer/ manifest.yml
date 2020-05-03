@@ -1,0 +1,4 @@
+applications:SpringRabbitMqProducer
+ path:/target/SpringRabbitMqProducer-0.0.1.jar
+ memeory:300MB
+  
