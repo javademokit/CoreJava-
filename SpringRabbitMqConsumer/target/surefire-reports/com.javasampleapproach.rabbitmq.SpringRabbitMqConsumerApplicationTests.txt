@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javasampleapproach.rabbitmq.SpringRabbitMqConsumerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.792 sec - in com.javasampleapproach.rabbitmq.SpringRabbitMqConsumerApplicationTests

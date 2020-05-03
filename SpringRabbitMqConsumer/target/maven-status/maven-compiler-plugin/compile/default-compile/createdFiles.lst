@@ -1,0 +1,6 @@
+com\javasampleapproach\rabbitmq\model\MessageserviceImp.class
+com\javasampleapproach\rabbitmq\model\MessageRepo.class
+com\javasampleapproach\rabbitmq\consumer\Consumer.class
+com\javasampleapproach\rabbitmq\model\Messagemodel.class
+com\javasampleapproach\rabbitmq\model\Messageservices.class
+com\javasampleapproach\rabbitmq\SpringRabbitMqConsumerApplication.class
