@@ -1,4 +1,4 @@
-package com.jmr;
+package com.rsb;
 import java.util.Calendar;
 import java.util.Timer;
 public class flexcube_sms_scheduler_Start

@@ -1,4 +1,4 @@
-package com.jmr;
+package com.rsb;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
